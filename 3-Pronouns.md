@@ -25,7 +25,9 @@ threat for trans people.
 
 Now, this kind of threat is reduced if your community has a culture of
 including pronouns in introductions and on name badges. It's cheap, it's easy,
-and it helps so many people.
+and it helps so many people. But also remember that there are people who are in
+the closet or are one of many forms of nonbinary that makes things like pronoun
+introductions a little harder for them than it is for the rest of us.
 
 In addition, if you need to ask (and let's be real: You're going to need to ask
 a lot more than you think) please do it privately, so as not to embarrass and
