@@ -18,6 +18,10 @@ But that's not where our leadership ended. I helped on the diversity committee
 this year, using my contacts to get in touch with a number of groups who could
 partner with us and invite diverse speakers to submit proposals.
 
+In addtion, our talk community was very focused on getting a higher percentage
+of women speakers which by metric of improving the final ratio from submissions
+we did great, but it's not as high as any of our team would hope.
+
 This has continued even outside my leadership responsibilities: I've been
 encouraged by both peers and mentors to spread my personal perspective to more
 conferences, and I will admit I am far more likely to do so this year than in
