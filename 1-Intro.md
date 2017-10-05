@@ -11,8 +11,10 @@ works, I'm not going to be explaining it here.
 
 Additionally, I'm going to be talking about my experiences with gender in my
 community and this is not the only trans story out there. Please see Naomi
-Cedar's talk on this topic to hear another view.
+Ceder's talk on this topic to hear another view.
 
 Trans people aren't a monolith, and our experiences are not universal. Please
-do not take my stories and advice as the _only_ available story.
+do not take my stories and advice as the _only_ available story. I even have an
+example where things that are best for people like myself, make things
+challenging for other minority communities.
 
