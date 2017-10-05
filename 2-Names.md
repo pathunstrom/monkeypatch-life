@@ -25,5 +25,7 @@ on your videos?"
 As you saw, I didn't do that, but it was great first signal that I was in a
 good community.
 
-The immediate next thing I was told was if I was given any trouble to let the
-organizers know.
+The take away here is very simple: Names change. What you consider a canonical
+name will often not be the one you're applying it to. Make systems where names
+can change easily, and don't rely on them as the only point of identification.
+
