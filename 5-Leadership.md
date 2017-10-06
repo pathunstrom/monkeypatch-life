@@ -9,6 +9,8 @@ It was telling that a talk with almost zero technical merit got such a strong
 reaction from my fellow organizers who are largely not people with my
 particular lense of experience.
 
+The takeaway:
+
 If you're leading a community, valuing diverse outlooks is a critical piece of
 making your community welcoming to any minority, but for me, who very rarely
 sees people like me in positions of leadership, it's a sign I've found a good
@@ -27,3 +29,18 @@ encouraged by both peers and mentors to spread my personal perspective to more
 conferences, and I will admit I am far more likely to do so this year than in
 previous years.
 
+Over the years, I've been in many communities whose acknowledgement of how to
+deal with bad actors can range from "deal with it yourself" to formal and well
+defined codes of conduct.
+
+In almost every community, bad actors will show up, and will force you to test
+your standards. I have been openly called a man, or had my wellness of mind
+questioned while discussing wholly unconnected topics. Some communities have
+provided the benefit of the doubt to the person doing these things, and I've
+been sufficiently silenced in those communities to the point of not openly
+participating anymore. In others, the standards of the community, or an
+explicit code of conduct was invoked quickly and the bad actors corrected, or
+removed, before they could use their actions to push me from the community
+
+All groups should be explicit about their codes of conduct, they should take
+them seriously, and they should act on them.
